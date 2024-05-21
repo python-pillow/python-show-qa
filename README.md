@@ -29,6 +29,8 @@
 
 ## What are some lessons you’ve learned while creating and maintaining Pillow?
 
+- 
+
 ## Are there any surprising use cases you have seen Pillow used for? Examples?
 
 - Open Source on Mars: Community powers NASA’s Ingenuity Helicopter
