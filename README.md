@@ -11,6 +11,18 @@
 
 ## What are your favorite Python packages or modules?
 
+- Django
+- Wagtail
+- Faker
+- django-allauth
+- django-crispy-forms
+- django-debug-toolbar
+- django-extensions
+- django-hijack
+- django-import-export
+- django-sql-explorer
+- logfire
+
 ## How did Pillow come about?
 
 ## What are some lessons you’ve learned while creating and maintaining Pillow?
