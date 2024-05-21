@@ -25,6 +25,8 @@
 
 ## How did Pillow come about?
 
+- https://mail.python.org/pipermail/image-sig/2010-July/006423.html
+
 ## What are some lessons you’ve learned while creating and maintaining Pillow?
 
 ## Are there any surprising use cases you have seen Pillow used for? Examples?
