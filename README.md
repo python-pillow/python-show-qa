@@ -31,6 +31,8 @@
 
 ## Are there any surprising use cases you have seen Pillow used for? Examples?
 
+- Open Source on Mars: Community powers NASA’s Ingenuity Helicopter
+
 ## Do you think AI will replace Pillow? Why or why not?
 
 ## What non-technical hobbies do you enjoy?
