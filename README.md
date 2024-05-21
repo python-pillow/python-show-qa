@@ -35,4 +35,6 @@
 
 ## Do you think AI will replace Pillow? Why or why not?
 
+- No
+
 ## What non-technical hobbies do you enjoy?
