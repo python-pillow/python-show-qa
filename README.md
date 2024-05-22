@@ -26,6 +26,8 @@
 ## How did Pillow come about?
 
 - https://mail.python.org/pipermail/image-sig/2010-July/006423.html
+- https://github.com/python-pillow/Pillow/pull/35 (2013)
+- https://github.com/python-pillow/Pillow/issues/3469 (late 2018)
 
 ## What are some lessons you’ve learned while creating and maintaining Pillow?
 
