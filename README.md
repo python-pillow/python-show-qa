@@ -44,3 +44,5 @@
 ## What non-technical hobbies do you enjoy?
 
 - https://headstraightband.com
+- Spotify, 0 monthly subscribers
+- iTunes
