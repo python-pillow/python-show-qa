@@ -11,18 +11,24 @@
 
 ## What are your favorite Python packages or modules?
 
-- Django
+- Django 
+  - The web framework for perfectionists with deadlines
+  - https://www.djangoproject.com/
 - Wagtail
+  - Create content that soars
+  - https://wagtail.org/
 - Faker
   - Faker is a Python package that generates fake data for you
   - https://github.com/joke2k/faker
 - django-allauth
-- django-crispy-forms
-- django-debug-toolbar
+  - A free, secure, well integrated, reusable authentication solution for the Django framework, covering all functionality related to local and social user accounts, multi-factor authentication, in various configurations, with flows that just work
+  - https://allauth.org/
 - django-extensions
-- django-hijack
-- django-import-export
+  - Django Extensions is a collection of custom extensions for the Django Framework
+  - https://github.com/django-extensions/django-extensions
 - django-sql-explorer
+  - SQL Reporting that Just Works. Fast, simple, and confusion-free. Write queries in a delightful SQL editor, with AI assistance. Just works, no surprises.
+  - https://www.sqlexplorer.io/
 - logfire
 
 ## How did Pillow come about?
