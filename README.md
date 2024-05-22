@@ -30,6 +30,8 @@
   - SQL Reporting that Just Works. Fast, simple, and confusion-free. Write queries in a delightful SQL editor, with AI assistance. Just works, no surprises.
   - https://www.sqlexplorer.io/
 - logfire
+  - Uncomplicated observability. From the team behind Pydantic, Logfire is a new type of observability platform built on the same belief as our open source library — that the most powerful tools can be easy to use.
+  - https://pydantic.dev/logfire
 
 ## How did Pillow come about?
 
