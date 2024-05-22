@@ -52,7 +52,10 @@
 
 ## Do you think AI will replace Pillow? Why or why not?
 
-- No. I think AI can already write Python code that uses Pillow to do image processing. I think if prompted, AI could also write code for Pillow development. Beyond that, I think AGI could have some impact on Pillow but I don't know what it is. Maybe something to do with "human" tasks like scheduling releases, reacting to world events in realtime e.g. xz.
+- No
+- I think AI can already write Python code that uses Pillow to do image processing
+- I think if prompted, AI could also write code for Pillow development
+- Beyond that, I think AGI could have some impact on Pillow but I don't know what it is. Maybe something to do with "human" tasks like scheduling releases, reacting to world events in realtime e.g. xz
 
 ## What non-technical hobbies do you enjoy?
 
