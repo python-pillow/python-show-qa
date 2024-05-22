@@ -14,6 +14,8 @@
 - Django
 - Wagtail
 - Faker
+  - Faker is a Python package that generates fake data for you
+  - https://github.com/joke2k/faker
 - django-allauth
 - django-crispy-forms
 - django-debug-toolbar
@@ -31,6 +33,7 @@
 
 ## What are some lessons you’ve learned while creating and maintaining Pillow?
 
+- Open source does not have to be stressful 
 - 
 
 ## Are there any surprising use cases you have seen Pillow used for? Examples?
