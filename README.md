@@ -33,8 +33,8 @@
 
 ## What are some lessons you’ve learned while creating and maintaining Pillow?
 
-- Open source does not have to be stressful 
-- 
+- Open source does not have to be stressful, Pillow is one of the least stressful open source projects I've ever worked on
+- There is a tremendous need to "pay the maintainers" and as such I am now a Tidelift Lifter Advocate in addition to being a paid Lifter
 
 ## Are there any surprising use cases you have seen Pillow used for? Examples?
 
