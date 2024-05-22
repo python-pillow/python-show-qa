@@ -33,11 +33,13 @@
 
 ## Are there any surprising use cases you have seen Pillow used for? Examples?
 
-- Open Source on Mars: Community powers NASA’s Ingenuity Helicopter
+- https://www.jeremykun.com/2012/01/01/random-psychedelic-art/
+- https://github.com/python-pillow/Pillow/issues/1888
+- https://github.com/readme/featured/nasa-ingenuity-helicopter
 
 ## Do you think AI will replace Pillow? Why or why not?
 
-- No
+- No. I think AI can already write Python code that uses Pillow to do image processing. I think if prompted, AI could also write code for Pillow itself. Beyond that, I think AGI could have some impact on Pillow but I don't know what that looks like.
 
 ## What non-technical hobbies do you enjoy?
 
